@@ -1,4 +1,4 @@
-# JaiCastle
+# Jai Castle
 Jai Castle, The University of Western Australia
 
 Some example code from university coursework (java files) at the University of Western Australia (as part of Software Engineering and Computer Science Degree).
