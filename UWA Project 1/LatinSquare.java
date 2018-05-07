@@ -1,5 +1,5 @@
 /**
- * Some weird class to do unnecessary stuff
+ * Latin Square - 2D arrays
  *
  * @author Jai Castle
  * @version 30 April 2018
