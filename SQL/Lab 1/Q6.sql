@@ -1,0 +1,2 @@
+SELECT Count(DISTINCT CountryCode) AS NUMBER_OF_CODES
+FROM City

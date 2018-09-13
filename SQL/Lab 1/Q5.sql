@@ -1,0 +1,3 @@
+SELECT *
+FROM CITY
+ORDER BY Population DESC
